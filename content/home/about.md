@@ -10,31 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "AI security",
+    "Machine Learning",
+    "Multimedia",
+    "Reinforcement learning",
+    "Artificial Intelligence"
+    "Data mining"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BEng in Electronics Engineering"
+  institution = "Huazhong University of Science and Technology (HUST)"
+  year = 2018
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my homepage! My name is Yinan Feng. I am now a Research Fellow at Zhejiang University, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I graduated from School of Electronics Engineering at Huazhong University of Science and Technology (HUST) in June 2018, working with Prof. [Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en).
+
+I am applying for Ph.D., and also actively looking for internship position for 2019. Here is my [Curriculum Vitae](file/resume.pdf).
