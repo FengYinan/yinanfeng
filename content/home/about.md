@@ -14,7 +14,7 @@ weight = 5
     "Machine Learning",
     "Multimedia",
     "Reinforcement learning",
-    "Artificial Intelligence"
+    "Artificial Intelligence",
     "Data mining"
   ]
 
