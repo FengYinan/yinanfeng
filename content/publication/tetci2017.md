@@ -2,7 +2,7 @@
 title = "Accurate Content Push for Content-Centric Social Networks: A Big Data-Support Online Learning Approach"
 
 # Date first published.
-date = "2017"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yinan Feng", "Pan Zhou", "Dapeng Wu", "Yuchun Hu"]
