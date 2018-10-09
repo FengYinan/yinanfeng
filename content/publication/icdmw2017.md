@@ -2,7 +2,7 @@
 title = "Social Intimacy Based IoT Services Mining of Massive Data"
 
 # Date first published.
-date = "2017"
+date = "2017-12-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Anni Zhou", "Yinan Feng", "Pan Zhou", "Jie xu"]
